@@ -1,0 +1,47 @@
+.heading {
+  color: #db0bca;
+  font-family: 'Roboto';
+}
+.inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.right-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.icon {
+  margin: 10px;
+}
+.date {
+  color: #db0bca;
+  font-family: 'Roboto';
+}
+.label-name {
+  font-family: 'Roboto';
+}
+.checkbox-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pinkColor {
+  background-color: #db0bca;
+  cursor: pointer;
+}
+.lightPinkColor {
+  background-color: #ffb6c1;
+  cursor: pointer;
+}
+.start-button {
+  color: white;
+  border: none;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+}
+.test-item {
+  cursor: pointer;
+}

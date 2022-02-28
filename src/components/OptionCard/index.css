@@ -1,0 +1,36 @@
+.option {
+  background-color: transparent;
+  width: 800px;
+  padding: 20px;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: 5px 10px 15px 5px lightblue;
+  margin-bottom: 20px;
+  border-style: 1px solid;
+  border-radius: 5px;
+}
+.alphabet {
+  font-weight: bold;
+  padding-top: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 6px;
+
+  border-radius: 10px;
+  margin-right: 5px;
+}
+.blue-color {
+  border-color: #34d2eb;
+}
+.normal-color {
+  border: none;
+  border-color: #bad4bf;
+}
+.alpha-blue-color {
+  background-color: #34d2eb;
+  color: white;
+}
+.alpha-normal-color {
+  color: black;
+  background-color: #d2d6d3;
+}
